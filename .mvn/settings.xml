@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+    
+    <!-- 本地仓库路径配置 -->
+    <localRepository>${user.home}/.m2/repository</localRepository>
+
+    <!-- 配置阿里云镜像 -->
+    <mirrors>
+        <mirror>
+            <id>aliyun</id>
+            <name>Aliyun Maven Central</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+            <mirrorOf>central</mirrorOf>
+        </mirror>
+    </mirrors>
+
+    <!-- 配置默认使用的JDK版本 -->
+    <profiles>
+        <profile>
+            <id>jdk-11</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+                <jdk>11</jdk>
+            </activation>
+            <properties>
+                <maven.compiler.source>11</maven.compiler.source>
+                <maven.compiler.target>11</maven.compiler.target>
+                <maven.compiler.compilerVersion>11</maven.compiler.compilerVersion>
+            </properties>
+        </profile>
+    </profiles>
+</settings>
