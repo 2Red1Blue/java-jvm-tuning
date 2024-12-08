@@ -43,7 +43,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.example.MemoryManagementDemo</mainClass>
+                            <mainClass>com.example.GCCollectorDemo</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
