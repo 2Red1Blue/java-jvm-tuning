@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1e6169ada27ba10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e002c81b5d710662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b46e99c17a55c370",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b138ca69ad8f69a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "67c037277c7950ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28c6a9f6ea3072b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8a1c8d6abebbdeeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9b142fe8a3aa3f2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "543610e232dd3b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d78c81f8b08d7798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a340b6fd630686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "aebf21e07c28f933",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "235689bb849f0cef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "361278575a7e4edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b46e99c17a55c370",
+  "lastOpenFiles": [
+    "java-jvm-tuning",
+    "spring-threadpool/ThreadPool-Learning-Notes.md",
+    "spring-threadpool/docs/ThreadPool-Learning-Notes.md",
+    "spring-threadpool/docs",
+    "spring-threadpool/target/classes/com/example/threadpool/ThreadPoolApplication.class",
+    "spring-threadpool/target/classes/com/example/threadpool/service/CompleteAsyncService.class",
+    "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$UserCredit.class",
+    "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$UserProfile.class",
+    "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$Order.class",
+    "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$1.class",
+    "spring-threadpool/target/classes/com/example/threadpool/service/AsyncService.class",
+    "spring-threadpool/target/classes/com/example/threadpool/service",
+    "spring-threadpool/target/classes/com/example/threadpool/examples/SpringThreadPoolExample.class"
+  ]
+}

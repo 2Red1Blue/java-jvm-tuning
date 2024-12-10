@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-threadpool
+
+# 自定义线程池配置
+thread-pool:
+  core-pool-size: 5
+  max-pool-size: 10
+  queue-capacity: 25
+  keep-alive-seconds: 300
