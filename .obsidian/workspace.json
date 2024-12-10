@@ -157,6 +157,22 @@
   },
   "active": "b46e99c17a55c370",
   "lastOpenFiles": [
+    "jvm-tuning/docs/blog/03-JVM内存管理与垃圾收集器上手实践.md",
+    "jvm-tuning/docs/blog/02-内存泄漏分析实践.md",
+    "jvm-tuning/docs/assets/Pasted image 20241208145126.png",
+    "jvm-tuning/docs/assets/Pasted image 20241208131640.png",
+    "jvm-tuning/docs/assets/Pasted image 20241208145104.png",
+    "jvm-tuning/docs/assets/Pasted image 20241208002430.png",
+    "jvm-tuning/docs/assets/Pasted image 20241208000909.png",
+    "jvm-tuning/docs/assets/Pasted image 20241208000442.png",
+    "jvm-tuning/docs/assets/Pasted image 20241207235107.png",
+    "jvm-tuning/docs/assets/Pasted image 20241207234922.png",
+    "jvm-tuning/docs/assets/Pasted image 20241207234347.png",
+    "jvm-tuning/docs/assets/Pasted image 20241207183400.png",
+    "jvm-tuning/docs/blog",
+    "jvm-tuning/docs/assets",
+    "jvm-tuning/docs/01-JVM基础知识.md",
+    "jvm-tuning/docs",
     "java-jvm-tuning",
     "spring-threadpool/ThreadPool-Learning-Notes.md",
     "spring-threadpool/docs/ThreadPool-Learning-Notes.md",
@@ -165,10 +181,6 @@
     "spring-threadpool/target/classes/com/example/threadpool/service/CompleteAsyncService.class",
     "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$UserCredit.class",
     "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$UserProfile.class",
-    "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$Order.class",
-    "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$1.class",
-    "spring-threadpool/target/classes/com/example/threadpool/service/AsyncService.class",
-    "spring-threadpool/target/classes/com/example/threadpool/service",
-    "spring-threadpool/target/classes/com/example/threadpool/examples/SpringThreadPoolExample.class"
+    "spring-threadpool/target/classes/com/example/threadpool/examples/ThirdPartyThreadPoolExample$Order.class"
   ]
 }
